@@ -59,6 +59,5 @@ public class Main {
         System.out.println("Totales:");
         System.out.println("Total promedio de notas: " + totalPromedioNotas / infoCarreras.size());
         System.out.println("Total promedio de edades: " + totalPromedioEdades / infoCarreras.size());
-        System.out.println("Total de estudiantes: " + totalEstudiantes);
     }
 }
