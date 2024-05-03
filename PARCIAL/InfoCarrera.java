@@ -21,7 +21,6 @@ public class InfoCarrera {
         return promedioEdad;
     }
 
-    @Override
     public String toString() {
         return "Carrera: " + carrera.getNombre() +
                 ", Promedio de notas: " + promedioNotas +
